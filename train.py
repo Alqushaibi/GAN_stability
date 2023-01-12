@@ -16,7 +16,7 @@ from gan_training.config import (
     load_config, build_models, build_optimizers, build_lr_scheduler,
 )
 
-# Arguments
+# Arguments of the 
 parser = argparse.ArgumentParser(
     description='Train a GAN with different regularization strategies.'
 )
